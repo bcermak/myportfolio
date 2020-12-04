@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "cermakportfolio",
-    "public": "y",
+    "public": "n",
     "ignore": [
       "firebase.json",
       "**/.*",
